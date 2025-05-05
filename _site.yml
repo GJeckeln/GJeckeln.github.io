@@ -4,7 +4,7 @@ navbar:
   title:
   left:
     - text: "About"
-      href: http://geraldinejeckeln.com///
+      href: index.html
     - text: "Publications"
       href: publications.html
 output:
