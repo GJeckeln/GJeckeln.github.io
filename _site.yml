@@ -1,0 +1,13 @@
+name: "Geraldine Jeckeln"
+output_dir: "."
+navbar:
+  title:
+  left:
+    - text: "About"
+      href: http://geraldinejeckeln.com///
+    - text: "Publications"
+      href: publications.html
+output:
+  html_document:
+    theme: cosmo
+    css: 'styles.css'

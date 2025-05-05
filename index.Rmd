@@ -1,0 +1,54 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+---
+---
+
+<img src="img/im3.jpg" width="300" />
+
+
+
+<h1 style="font-size:209%; color:#2e8b57; text-align:left;">
+Hello! I am Géraldine (Gérie) Jeckeln.
+</h1>
+
+<h1 style="font-size:120%;color:Black;text-align:left;">
+I am a Postdoctoral Research Associate in the <i><a href="https://labs.utdallas.edu/facelab/" style= color:#2e8b57> Face Perception Research Lab</a></i> at the University of Texas at Dallas. 
+
+My research focuses on how we process and identify faces, with a focus on three interconnected areas: visual confidence, collaborative decision-making, and individual/group differences in ability. I study the cognitive processes that shape face-identification performance, using methods from signal detection theory, psychometric modeling, and computational modeling. A central goal of my work is to build methodological frameworks that deepen our understanding of face identification and support its application in real-world settings (e.g., security applications and criminal investigations).
+
+Outside of work, I love getting involved with local rescues/advocating for homeless animals (Nashville has an amazing community!). I enjoy hiking with my 3 dogs, exploring plant-based recipes, visiting local breweries, and gardening. One of my long-term goals is to visit every national park in Canada and the United States. :) 
+
+
+
+</h1>
+
+<h1 style="font-size:100%;color:Black;text-align:left;">
+Email address:
+<a href="mailto:geraldine.jeckeln@utdallas.edu" style= color:#2e8b57>geraldine.jeckeln@utdallas.edu</a>
+</h1>
+
+</p>
+<hr>
+
+<h1 style="font-size:120%;color:Black;text-align:left;"> 
+PhD, Cognition and Neuroscience, UT Dallas, 2024 </br>
+MS, Applied Cognition and Neuroscience, UT Dallas, 2018 </br>
+BA, Honours Psychology, Concordia University, 2015 </br>
+</h1>
+
+</p>
+<hr>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+</a> <a href="https://scholar.google.com/citations?user=gCJpjhUAAAAJ&hl=en" style= color:Black>
+<i class="ai ai-google-scholar-square ai-2x"></i></a>    <a href="https://www.researchgate.net/profile/Geraldine-Jeckeln" style= color:Black>
+<i class="ai ai-researchgate-square  ai-2x"></i></a>
+<a href="#" style= color:Black>
+<i class="ai ai-osf-square  ai-2x"></i></a>
+
+
+

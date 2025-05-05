@@ -1,0 +1,172 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+---
+---
+
+
+### Publications
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+***Jeckeln, G.***, Yavuzcan, S., Marquis, K. A., Mehta, P. S., Yates, A. N., O'Toole, A. J., & Phillips, P. J. (2024). Designing cross-race tests for forensic facial examiners, super-recognizers, and face recognition algorithms. *IEEE 18th International Conference on Automatic Face and Gesture Recognition* (pp. 1–8). IEEE. <i><a href="https://brosdocs.net/fg2024/101.pdf" style= color:#2e8b57> Link </a></i>
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+Yates, A. N., Cavazos, J. G., **Jeckeln, G.**, Hu, Y., Noyes, E., Hahn, C. A., O'Toole, A. J., & Phillips, P. J. (2024). Perceptual expertise of forensic examiners and reviewers on tests of cross-race and disguised face identification and face memory. *Applied Cognitive Psychology, 38*(6), e70002.  <i><a href="https://onlinelibrary.wiley.com/doi/10.1002/acp.70002" style= color:#2e8b57> Link </a></i>
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+**Jeckeln, G.**, Hu, Y., Cavazos, J. G., Yates, A. N., Hahn, C.A., Tang, L., Phillips, P. J., & O'Toole, A. J. (2023). Face identification proficiency test designed using Item Response Theory. *Behavior Research Methods, 56*(3), 1244–1259. <i><a href="https://link.springer.com/article/10.3758/s13428-023-02092-7" style= color:#2e8b57> Link </a></i>
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+Cavazos, J. G., **Jeckeln, G.**, & O'Toole, A. J. (2023). Collaboration to improve cross-race face recognition: Wisdom of the multi-racial crowd? *British Journal of Psychology, 114*(4), 838–853. <i><a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.12657" style= color:#2e8b57> Link </a></i>
+
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+Mallick, S., **Jeckeln, G.**, Parde, C. J., Castillo, C. D., & O’Toole, A. J. (2023). The influence of the other-race effect on susceptibility to face morphing attacks. *ACM Transactions on Applied Perception, 21*(1), 1–13.
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+**Jeckeln, G.**, Mamassian, P., & O'Toole, A. J. (2022). Confidence judgments are associated with face identification accuracy: Findings from a confidence forced-choice task. *Behavior Research Methods, 55*(8), 4118–4127. [https://doi.org/10.3758/s13428-022-02009-w](https://doi.org/10.3758/s13428-022-02009-w)
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+Cavazos J. G., **Jeckeln, G.**, Hu, Y., & O'Toole, A. J. (2021). Strategies of face recognition by humans and machines. In *Deep Learning-Based Face Analytics* (pp. 361–379). Cham: Springer International Publishing.
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+Phillips, P. J., Yates, A. N., Hu, Y., Hahn, C. A., Noyes, E., Jackson, K., Cavazos, J. G., **Jeckeln, G.**, Ranjan, R., Sankaranarayanan, S., Chen, J.-C., Castillo, C. D., Chellappa, R., White, D., & O'Toole, A. J. (2018). Face recognition accuracy of forensic examiners, superrecognizers, and face recognition algorithms. *Proceedings of the National Academy of Sciences, 115*(24), 6171–6176.
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+**Jeckeln, G.**, Hahn, C. A., Noyes, E., Cavazos, J. G., & O'Toole, A. J. (2018). Wisdom of the social versus non‐social crowd in face identification. *British Journal of Psychology, 109*(4), 724–735.
+
+</div>
+
+---
+
+### Manuscripts Under Review
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+**Jeckeln, G.**, & O'Toole, A. J. (submitted). Constructing a cross-race face identity triad test. [https://doi.org/10.31234/osf.io/a2nhx](https://doi.org/10.31234/osf.io/a2nhx)
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+**Jeckeln, G.**, & O'Toole, A. J. (submitted). Does confidence indicate face-identity matching accuracy for own-race and other-race faces?
+
+</div>
+---
+
+
+
+### Conference Talks
+#### * indicates the presenting author
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**., Phillips, P. J., Hahn, C. A., Yates, A. N., Fontana, P., & O’Toole, A. J. (Accepted, June 2025). *Enhancing Face Recognition through Intelligent Human-Machine Collaboration.* Society for Applied Research in Memory and Cognition 15th Biennial Meeting, Kildare, Ireland.
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Phillips, P. J., Yates, A. N., **Jeckeln, G.**., Panduragan, A., Yang, J., White, D., & O’Toole, A. J. (Accepted, May 2025). *Measuring Cross-Race Bias in Forensic Facial Examiners and Super-Recognizers: A Closed-Box Approach.* European Academy of Forensic Science, Dublin, Ireland.
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Phillips, P. J., **Jeckeln, G.**., Hahn, C. A., Yates, A. N., Fontana, P., & O’Toole, A. J. (Accepted, May 2025). *Humans and Algorithms Partner to Boost Face Recognition.* European Academy of Forensic Science, Dublin, Ireland.
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, Marquis, K. A., Yavuzcan, S., Yates, A. N., Phillips, P. J., & O’Toole, A. J. (August 2023). *Constructing a Cross-Race Test for Forensic Facial Identification Experts.* International Association for Identification Conference, National Harbor, MD.
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, Hu, Y., Cavazos, J. G., Yates, A. N., Hahn, C. A., Tang, L., Phillips, P. J., & O’Toole, A. J. (June 2021). *Designing Calibrated Facial Proficiency Tests.* 10th Annual Forensic Science Symposium (Virtual).
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Yates, A. N., Cavazos, J. G., Hu, Y., **Jeckeln, G.**, Noyes, E., Hahn, C. A., O’Toole, A. J., & Phillips, P. J. (October 2020). *Perceptual Face Abilities of Face Examiners for Varying Tasks.* International Face Performance Conference (Virtual).
+
+</div>
+---
+
+###  Conference Posters 
+#### * indicates the presenting author
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, & O’Toole, A. J. (May 2025). *Constructing the Cross-Race Triad Identity Matching (CRTIM) Test.* Vision Science Society Annual Meeting, St. Pete Beach, FL.  <a href="VSS2025-GJ-CRFIT.html" target="_blank">Find poster here.</a>
+
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Ying, H., Pan, R., Xiao, Y., Zhu, Z., **Jeckeln, G.**, & Fu, X. (Accepted, May 2025). *Enhancing Face Perception Research with the Chinese Face and Body Dataset (CFBD).* Vision Science Society Annual Meeting, St. Pete Beach, FL. 
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, & O’Toole, A. J. (May 2024). *Does Confidence Predict Face-Identification Accuracy for Same-Race and Other-Race Faces?* Vision Science Society Annual Meeting, St. Pete Beach, FL.  <a href="VSS-2024Confidence.html" target="_blank">Find poster here.</a>
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Phillips, P. J., **Jeckeln, G.**, Hahn, C. A., Yates, A. N., Fontana, P., & O’Toole, A. J. (May 2024). *Individual Differences in Fusing the Face Identification Decisions of Humans and Machines.* Vision Science Society Annual Meeting, St. Pete Beach, FL.  <a href="VSS-2024Fusion.html" target="_blank">Find poster here.</a>
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Marquis, K., Yavuzcan, S., **Jeckeln, G.**, Yates, A., Phillips, P. J., & O'Toole, A. J. (May 2023). *Designing an “Other Race Effect” Test for Forensic Facial Identification Experts Using the Performance of Deep Networks and Untrained Humans.* Journal of Vision, 23(9), 5725.
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Mallick, S., **Jeckeln, G.**, Parde, C., Castillo, D. C., & O’Toole, A. J. (May 2022). *The Influence of the Other-Race Effect on Morphed Face Identification.* Vision Science Society Annual Meeting. <a href="VSS2022MorphPNG.html" target="_blank">Find poster here.</a>
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, Mamassian, P., & O’Toole, A. J. (May 2022). *People Can Evaluate the Correctness of Their Face-Identification Decisions Using Comparative Confidence Judgments.* Vision Science Society Annual Meeting. <a href="VSS2022ConfidencePNG.html" target="_blank">Find poster here.</a>
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, Mamassian, P., & O’Toole, A. J. (June 2021). *Confidence Indicates Face-Identification Accuracy: Findings from a Confidence Forced-Choice Task.* International Summer School on Biometrics (Virtual).
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, Hu, Y., Cavazos, J. G., Yates, A. N., Hahn, C. A., Tang, L., O’Toole, A. J., & Phillips, P. J. (June 2020).* Building Calibrated Face-Identification Ability Tests with Item Response Theory.* Journal of Vision, 1004. Vision Science Society (Virtual).
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Yates, A. N., Cavazos, J. G., Hu, Y., **Jeckeln, G.**, Noyes, E., Hahn, C. A., O’Toole, A. J., & Phillips, P. J. (2020). *Perceptual Face Abilities of Face Examiners for Varying Tasks.* ITL Science Day, NIST, Gaithersburg, MD.
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Phillips, P. J., Yates, A. N., Cavazos, J. G., Hu, Y., **Jeckeln, G.**, Tang, L., & O’Toole, A. J. (2019). *Why Calibrated Face Ability Tests Are Necessary.* ITL Science Day, NIST, Gaithersburg, MD.
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, Noyes, E., Hahn, C. A., & O’Toole, A. J. (May 2017). *Does Social Collaboration Benefit Face-Matching Accuracy Over Simply Fusing Individuals’ Responses?* Journal of Vision, 17(10), 1004. Vision Science Society Annual Meeting, St. Pete Beach, FL.
+
+</div>
+---
+
+### Invited Talks 
+#### * indicates the presenting author
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Phillips, P. J., **Jeckeln, G.**, Hahn, C. A., Yates, A. N., Fontana, P., & O’Toole, A. J. (November 2024). *Unlocking the Power of Partnership: How Humans and Algorithms Can Work Together to Improve Face Recognition.* Different Minds Collaborative (Virtual).
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Phillips, P. J., **Jeckeln, G.**, Hahn, C. A., Yates, A. N., Fontana, P., & O’Toole, A. J. (July 2024). *Unlocking the Power of Partnership: How Humans and Algorithms Can Work Together to Improve Face Recognition.* IRIS Experts Group Annual Meeting, NIST (Virtual).
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, Mamassian, P., & O’Toole, A. J. (April 2021). *Confidence Judgments Are Associated with Face-Identification Accuracy.* Different Minds Collaborative Spring Conference (Virtual).
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.**, Mamassian, P., & O’Toole, A. J. (March 2021). *Is Confidence a Good Indicator of Face-Identification Accuracy?* Psychology Lecture Series, UT Dallas, Richardson, TX.
+
+</div> <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Cavazos, J. G., **Jeckeln, G.**, Hu, Y., & Baragchizadeh, A. (May 2020). *A Workshop on Transition to Online Studies.* UT Dallas, Richardson, TX.
+
+</div>
+

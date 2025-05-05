@@ -1,0 +1,8 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+---
+---
+<embed src="posters/Poster_VSS_GJ_2024.png" width="1600px" />
