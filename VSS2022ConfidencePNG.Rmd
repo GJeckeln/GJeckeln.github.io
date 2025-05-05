@@ -5,4 +5,4 @@
 
 ---
 ---
-<embed src="VSS-2020IRT.png" width="1600px" />
+<embed src="posters/Poster_VSS_GJ_2022.png" width="1000px" />
