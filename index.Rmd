@@ -6,7 +6,6 @@
 ---
 ---
 
-<img src="img/im3.jpg" width="300" />
 
 
 
