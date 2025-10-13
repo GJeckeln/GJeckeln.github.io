@@ -10,6 +10,16 @@
 ### Publications
 
 <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+**Jeckeln, G.** & O'Toole, A. J. (2025). Constructing a cross-race face identity triad test. *Behavior Research Methods, 57* (10), 278.  <i><a href= "https://doi.org/10.3758/s13428-025-02809-w" style= color:#2e8b57> Link </a></i>
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+Hu, Y., Pan, R., Xiao, Y., Zhu, Z., **Jeckeln, G.,** & Fu, X. (2025). Chinese Face and Body Dataset (CFBD): Lab and personal photos of the same individuals. *Behavior Research Methods, 57*, Article 292. <i><a href="https://doi.org/10.3758/s13428-025-02815-y" style=color:#2e8b57> Link </a></i>
+</div>
+
+
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
 
 ***Jeckeln, G.***, Yavuzcan, S., Marquis, K. A., Mehta, P. S., Yates, A. N., O'Toole, A. J., & Phillips, P. J. (2024). Designing cross-race tests for forensic facial examiners, super-recognizers, and face recognition algorithms. *IEEE 18th International Conference on Automatic Face and Gesture Recognition* (pp. 1–8). IEEE. <i><a href="https://brosdocs.net/fg2024/101.pdf" style= color:#2e8b57> Link </a></i>
 
@@ -36,13 +46,13 @@ Cavazos, J. G., **Jeckeln, G.**, & O'Toole, A. J. (2023). Collaboration to impro
 
 <div style="text-indent:-1.27cm; padding-left:1.27cm;">
 
-Mallick, S., **Jeckeln, G.**, Parde, C. J., Castillo, C. D., & O’Toole, A. J. (2023). The influence of the other-race effect on susceptibility to face morphing attacks. *ACM Transactions on Applied Perception, 21*(1), 1–13.
+Mallick, S., **Jeckeln, G.**, Parde, C. J., Castillo, C. D., & O’Toole, A. J. (2023). The influence of the other-race effect on susceptibility to face morphing attacks. *ACM Transactions on Applied Perception, 21*(1), 1–13.  <i><a href="https://dl.acm.org/doi/abs/10.1145/3618113" style= color:#2e8b57> Link </a></i>
 
 </div>
 
 <div style="text-indent:-1.27cm; padding-left:1.27cm;">
 
-**Jeckeln, G.**, Mamassian, P., & O'Toole, A. J. (2022). Confidence judgments are associated with face identification accuracy: Findings from a confidence forced-choice task. *Behavior Research Methods, 55*(8), 4118–4127. [https://doi.org/10.3758/s13428-022-02009-w](https://doi.org/10.3758/s13428-022-02009-w)
+**Jeckeln, G.**, Mamassian, P., & O'Toole, A. J. (2022). Confidence judgments are associated with face identification accuracy: Findings from a confidence forced-choice task. *Behavior Research Methods, 55*(8), 4118–4127. <i><a href= "https://doi.org/10.3758/s13428-022-02009-w" style= color:#2e8b57> Link </a></i>
 
 </div>
 
@@ -54,7 +64,8 @@ Cavazos J. G., **Jeckeln, G.**, Hu, Y., & O'Toole, A. J. (2021). Strategies of f
 
 <div style="text-indent:-1.27cm; padding-left:1.27cm;">
 
-Phillips, P. J., Yates, A. N., Hu, Y., Hahn, C. A., Noyes, E., Jackson, K., Cavazos, J. G., **Jeckeln, G.**, Ranjan, R., Sankaranarayanan, S., Chen, J.-C., Castillo, C. D., Chellappa, R., White, D., & O'Toole, A. J. (2018). Face recognition accuracy of forensic examiners, superrecognizers, and face recognition algorithms. *Proceedings of the National Academy of Sciences, 115*(24), 6171–6176.
+Phillips, P. J., Yates, A. N., Hu, Y., Hahn, C. A., Noyes, E., Jackson, K., Cavazos, J. G., **Jeckeln, G.**, Ranjan, R., Sankaranarayanan, S., Chen, J.-C., Castillo, C. D., Chellappa, R., White, D., & O'Toole, A. J. (2018). Face recognition accuracy of forensic examiners, superrecognizers, and face recognition algorithms. *Proceedings of the National Academy of Sciences, 115*(24), 6171–6176.  <i><a href= "https://www.pnas.org/doi/abs/10.1073/pnas.1721355115" style= color:#2e8b57> Link </a></i>
+
 
 </div>
 
@@ -68,11 +79,7 @@ Phillips, P. J., Yates, A. N., Hu, Y., Hahn, C. A., Noyes, E., Jackson, K., Cava
 
 ### Manuscripts Under Review
 
-<div style="text-indent:-1.27cm; padding-left:1.27cm;">
 
-**Jeckeln, G.**, & O'Toole, A. J. (submitted). Constructing a cross-race face identity triad test. [https://doi.org/10.31234/osf.io/a2nhx](https://doi.org/10.31234/osf.io/a2nhx)
-
-</div>
 
 <div style="text-indent:-1.27cm; padding-left:1.27cm;">
 
@@ -81,6 +88,16 @@ Phillips, P. J., Yates, A. N., Hu, Y., Hahn, C. A., Noyes, E., Jackson, K., Cava
 </div>
 ---
 
+
+
+### Preprints
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+Phillips, P. J., **Jeckeln, G.**, Hahn, C. A., Yates, A. N., Fontana, P. C., & O’Toole, A. J. (2025). Unlocking the power of partnership: How humans and machines can work together to improve face recognition (*preprint*). <i><a href="https://arxiv.org/pdf/2510.02570" style=color:#2e8b57> Link </a></i>
+
+</div>
+
+---
 
 
 ### Conference Talks
