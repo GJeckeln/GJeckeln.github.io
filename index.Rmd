@@ -18,7 +18,7 @@ I am a Postdoctoral Research Associate in the <i><a href="https://labs.utdallas.
 
 My research focuses on how we process and identify faces, with a with particular emphasis on three interconnected areas: visual confidence, collaborative decision-making, and individual/group differences in ability. I study the cognitive processes that shape face-identification performance using methods from signal detection theory, psychometric modeling, and computational modeling. A central goal of my work is to develop methodological frameworks that deepen our understanding of face identification and support its application in real-world settings (e.g., security applications and criminal investigations).
 
-Outside of research, I’m passionate about animal welfare and have been involved in dog and cat rescue through fostering, transporting, and volunteering. These experiences have deepened my understanding of animal behavior and reinforced my commitment to supporting animals with behavioral challenges or medical needs. I also enjoy spending time outdoors, particularly hiking and exploring nature.
+Outside of research, I’m passionate about animal welfare and have been involved in rescue through fostering, transporting, and volunteering. These experiences have deepened my understanding of animal behavior and reinforced my commitment to supporting animals with behavioral challenges or medical needs. I also enjoy spending time outdoors, particularly hiking and exploring nature.
 
 
 </h1>
