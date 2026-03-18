@@ -6,7 +6,8 @@
 ---
 ---
 
-
+<img src="img/20230824_144539.jpg" alt="Photo of Géraldine Jeckeln" 
+     style="width:220px; height:220px; object-fit:cover; float:left; margin:0 20px 10px 0;">
 
 
 <h1 style="font-size:209%; color:#2e8b57; text-align:left;">
@@ -14,12 +15,16 @@ Hello! I am Géraldine (Gérie) Jeckeln.
 </h1>
 
 <h1 style="font-size:120%;color:Black;text-align:left;">
-I am a Postdoctoral Research Associate in the <i><a href="https://labs.utdallas.edu/facelab/" style= color:#2e8b57> Face Perception Research Lab</a></i> at the University of Texas at Dallas. 
+I am a Postdoctoral Research Associate in the <i><a href="https://labs.utdallas.edu/facelab/" style= color:#2e8b57> Face Perception Research Lab</a></i> at the University of Texas at Dallas. My research focuses on how we process and identify faces, with a  particular emphasis on three interconnected areas: visual confidence, collaborative decision-making, and individual/group differences in ability. I study the cognitive processes that shape face-identification performance using methods from signal detection theory, psychometric modeling, and computational modeling. A central goal of my work is to develop methodological frameworks that deepen our understanding of face identification and support its application in real-world settings (e.g., security applications and criminal investigations).
 
-My research focuses on how we process and identify faces, with a with particular emphasis on three interconnected areas: visual confidence, collaborative decision-making, and individual/group differences in ability. I study the cognitive processes that shape face-identification performance using methods from signal detection theory, psychometric modeling, and computational modeling. A central goal of my work is to develop methodological frameworks that deepen our understanding of face identification and support its application in real-world settings (e.g., security applications and criminal investigations).
+Outside of research, I’m passionate about dog rescue/rehab and have been involved through fostering, transporting, and volunteering. These experiences have deepened my understanding of animal behavior and reinforced my commitment to supporting animals with behavioral challenges or medical needs. I also enjoy spending time outdoors, particularly hiking with my TX Heeler mutts.
 
-Outside of research, I’m passionate about animal welfare and have been involved in rescue through fostering, transporting, and volunteering. These experiences have deepened my understanding of animal behavior and reinforced my commitment to supporting animals with behavioral challenges or medical needs. I also enjoy spending time outdoors, particularly hiking and exploring nature.
-
+<h1 style="font-size:100%;color:Black;text-align:left;">
+CV:
+<a href="Jeckeln_CV2026.pdf" target="_blank" style="color:#2e8b57;">
+Download CV (PDF)
+</a>
+</h1>
 
 </h1>
 
