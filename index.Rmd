@@ -19,12 +19,12 @@ I am a Postdoctoral Research Associate in the <i><a href="https://labs.utdallas.
 
 Outside of research, I’m passionate about dog rescue/rehab and have been involved through fostering, transporting, and volunteering. These experiences have deepened my understanding of animal behavior and reinforced my commitment to supporting animals with behavioral challenges or medical needs. I also enjoy spending time outdoors, particularly hiking with my dogs.
 
-<h1 style="font-size:100%;color:Black;text-align:left;">
+<!--<h1 style="font-size:100%;color:Black;text-align:left;">
 CV:
 <a href="Jeckeln_CV2026.pdf" target="_blank" style="color:#2e8b57;">
 Download CV (PDF)
 </a>
-</h1>
+</h1>-->
 
 </h1>
 
@@ -51,7 +51,9 @@ BA, Honours Psychology, Concordia University, 2015 </br>
 <i class="ai ai-google-scholar-square ai-2x"></i></a>    <a href="https://www.researchgate.net/profile/Geraldine-Jeckeln" style= color:Black>
 <i class="ai ai-researchgate-square  ai-2x"></i></a>
 <a href="#" style= color:Black>
-<i class="ai ai-osf-square  ai-2x"></i></a>
+<a href="https://osf.io/user/abvh3" style="color:black;">
+  <i class="ai ai-osf-square ai-2x"></i>
+</a>
 
 
 
