@@ -10,6 +10,13 @@
 ### Publications
 
 <div style="text-indent:-1.27cm; padding-left:1.27cm;">
+
+**Jeckeln, G.** & O'Toole, A. J. (2026). Does confidence indicate face-identity matching accuracy for same-race and other-race faces? <i>Applied Cognitive Psychology, 40</i>(5), e70289. <a href="https://doi.org/10.1002/acp.70289" style="color:#2e8b57">Link</a>
+
+
+</div>
+
+<div style="text-indent:-1.27cm; padding-left:1.27cm;">
 **Jeckeln, G.** & O'Toole, A. J. (2025). Constructing a cross-race face identity triad test. *Behavior Research Methods, 57* (10), 278.  <i><a href= "https://doi.org/10.3758/s13428-025-02809-w" style= color:#2e8b57> Link </a></i>
 </div>
 
@@ -79,18 +86,6 @@ Phillips, P. J., Yates, A. N., Hu, Y., Hahn, C. A., Noyes, E., Jackson, K., Cava
 
 ### Manuscripts Under Review
 
-
-
-<div style="text-indent:-1.27cm; padding-left:1.27cm;">
-
-**Jeckeln, G.**, & O'Toole, A. J. (submitted). Does confidence indicate face-identity matching accuracy for own-race and other-race faces?
-
-</div>
----
-
-
-
-### Preprints
 <div style="text-indent:-1.27cm; padding-left:1.27cm;">
 
 Phillips, P. J., **Jeckeln, G.**, Hahn, C. A., Yates, A. N., Fontana, P. C., & O’Toole, A. J. (2025). Unlocking the power of partnership: How humans and machines can work together to improve face recognition (*preprint*). <i><a href="https://arxiv.org/pdf/2510.02570" style=color:#2e8b57> Link </a></i>
